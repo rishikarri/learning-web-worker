@@ -17,6 +17,8 @@ function startWorker() {
 	}
 }
 
+//asdf
+
 
 function stopWorker() {
 	w.terminate();
